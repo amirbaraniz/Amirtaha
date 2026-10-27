@@ -1,0 +1,11 @@
+Vazir installation — official original files belong to the user.
+
+Copy these three files from your Windows fonts folder to this directory:
+  Vazir.woff           -> normal 400
+  Vazir-Light.woff     -> light 300
+  Vazir-Bold.woff      -> bold 700
+
+The CSS is ready to use the files without code changes.
+The ZIP includes Noto as fallback until genuine Vazir files are added.
+After adding the three WOFF files, the browser uses Vazir.
+The font family is referenced with relative paths for GitHub Pages project URLs.
